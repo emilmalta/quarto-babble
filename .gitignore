@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# Quarto output directories (optional if you don't commit builds)
+_site/
+*.html
+*.pdf
+
+# Python/R temp files
+.Rhistory
+.RData
+*.Rproj
+.Rproj.user/
+
+# VSCode and IDE junk
+.vscode/
+.idea/
+
+# OS-specific hidden files
+Thumbs.db
+
+# Rendered translations
+*.da.qmd
+*.kl.qmd
+*.en.qmd

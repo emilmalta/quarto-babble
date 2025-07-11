@@ -1,0 +1,16 @@
+---
+title: Hello, Babble
+description: This is an example of Babble in action!
+lang: en
+filters:
+  - babble
+babble: 
+  languages: [en, da, kl]
+---
+
+This extension provides a framework for efficient translations of Quarto
+documents.
+
+Rendering this document will produce 3 new qmds with placeholder text in the
+YAML. Render the output after filling in all of your translations, and this
+will make translated output with the same layout.

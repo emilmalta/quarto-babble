@@ -48,7 +48,7 @@ Edit the output files and fill in the translations:
 ```yaml
 langstrings:
   title_header: "" # A Quarto report
-  para_intro: "" This report shows ...
+  para_intro: "" # This report shows ...
 ```
 
 Leave the keys as-is, just translate in the quotes.
